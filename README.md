@@ -40,4 +40,8 @@ print("**************** Filtrage dont la longueur ****************")
 filtred_df = df[df["Longueur"] > 10]
 print(filtred_df,"\n\n")
 
+#3) calculer la moyenne du pourcentage de GC 
+print("****************calcul de la moyenne****************")
+# calculer la moyenne du pourcentage de GC average_gc=df["pourcentage GC"].mean()
+print(f"pourcentage moyen de GC :{average_gc:.3f}%","\n\n")
 
