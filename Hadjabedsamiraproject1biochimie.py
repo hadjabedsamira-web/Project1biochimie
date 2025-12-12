@@ -1,4 +1,4 @@
-#Pandas with hadj abed samira
+#Pandas with M1 biochimie hadj abed samira ,hadjabedsamira-web/Project1biochimie
 #for biochimie Master 1 Tlemcen...09/12/2025
 #the project members:
 #Nasri wail chams eddine
