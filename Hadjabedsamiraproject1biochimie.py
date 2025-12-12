@@ -27,7 +27,7 @@ print ("Tableau des Séquences ADN:")
 print(df,"\n\n")
 
 #Opérations sur les tableaux :
-print("**************** Opération ****************")
+print("**************** Opération ****************") 
 
 
 #1) Sélectionner la colonne "Longueur"
