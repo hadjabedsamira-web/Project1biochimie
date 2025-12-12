@@ -32,7 +32,7 @@ print("**************** Opération ****************")
 
 #1) Sélectionner la colonne "Longueur"
 longueur = df["Longueur"]
-print(longueur,"\n\n")
+print(longueur,"\n\n") 
 
 #2) Filtrer les séquences dont la longueur supérieure à 10
 print("**************** Filtrage dont la longueur ****************")
