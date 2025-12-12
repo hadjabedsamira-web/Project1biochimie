@@ -24,7 +24,7 @@ print("****************Création et affichage****************") yo
 
 # Affichage du tableau
 print ("Tableau des Séquences ADN:")
-print(df,"\n\n")
+print(df,"\n\n") 
 
 #Opérations sur les tableaux : 
 print("**************** Opération ****************") 
