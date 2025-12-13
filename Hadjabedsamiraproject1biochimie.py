@@ -14,7 +14,7 @@ import pandas as pd
 data ={
 "Séquence": ["ATGCGTACGTA","GCTAGCTAGGCC","TAGCGCGTAAGT","TACGATCGTA","ATGAAAGGCTT","CGTACGTAGC","TTAACCGGAT"],
 "Longueur": [12,12,12,10,11,10,10],
- "Pourcentage GC": [50,66.67,58.33,40,45.45,60,50]
+"Pourcentage GC": [50,66.67,58.33,40,45.45,60,50]
  }
 
 
