@@ -61,7 +61,7 @@ print(df,"\n\n")
 print("===== Écart type =====")
 print("Écart type de pourcentage GC:", écarttype_gc)
 print("Écart type de longueur:", écarttype_long)
-print(df,"\n\n")
+print(df,\n\n")
 
 #7) Sauvegarde et chargement des données avec pandas
 #Sauvegarder le DataFrame dans un fichier csv
