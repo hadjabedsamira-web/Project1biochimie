@@ -53,7 +53,7 @@ print(f"pourcentage moyen de GC :{average_gc:.3f}%","\n\n")
 #5) Ajouter une  colonne comptant  les 'G'
 df["Nombre de G"]= df["Séquence"].str.count("G")
 print("===== Nombre de G ajoutés =====")
-
+print(df,"\n\n")
 
 #6) Calculer l'écart type de pourcentage GC et de longueur
 écarttype_gc = df["Poucentage GC"].std() 
@@ -61,7 +61,7 @@ print("===== Nombre de G ajoutés =====")
 print("===== Écart type =====")
 print("Écart type de pourcentage GC:", écarttype_gc)
 print("Écart type de longueur:", écarttype_long)
-print(df,"\n\n") 
+print(df,"\n\n")
 
 #7) Sauvegarde et chargement des données avec pandas
 #Sauvegarder le DataFrame dans un fichier csv
