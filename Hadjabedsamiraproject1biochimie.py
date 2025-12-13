@@ -12,7 +12,7 @@ import pandas as pd
 
 #Données : Séquence ADN, Longeur, Pourcentage de GC 
 data ={
-"Séquence":["ATGCGTACGTA","GCatégorieGCGTAAGT","TACGATCGTA","ATGAAAGGCTT","CGTACGTAGC","TTAACCGGAT"],
+"Séquence": ["ATGCGTACGTA","GCTAGCTAGGCC","TAGCGCGTAAGT","TACGATCGTA","ATGAAAGGCTT","CGTACGTAGC","TTAACCGGAT"],
 "Longueur": [12,12,12,10,11,10,10],
  "Pourcentage GC": [50,66.67,58.33,40,45.45,60,50]
  }
@@ -20,7 +20,7 @@ data ={
 
 # Création d'un DataFrame (tableau pandas)
 df = pd.DataFrame(data)
-print("****************Création et affichage****************") yo
+print("****************Création et affichage****************") 
 
 # Affichage du tableau
 print ("Tableau des Séquences ADN:")
