@@ -23,7 +23,7 @@ df = pd.DataFrame(data)
 print("****************Création et affichage****************")
 
 # Affichage du tableau
-print ("Tableau des Séquences ADN:")
+print ("Tableau des Séquences ADN:") ki
 print(df,"\n\n")
 
 #Opérations sur les tableaux :
@@ -55,7 +55,7 @@ print(df,"\n\n")
 #5) Ajouter une colonne comptant les'G' 
 df["Nombre de G"] = df["Séquence"].str.count("G")
 print("===== Nombre de G ajoutés =====")
-print(df,"\n\n")
+print("df,\n\n")
 
 
 
