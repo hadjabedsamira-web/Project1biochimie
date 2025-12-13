@@ -20,7 +20,8 @@ data ={
 
 # Création d'un DataFrame (tableau pandas)
 df = pd.DataFrame(data)
-print("****************Création et affichage****************") 
+print("****************Création et affichage****************")
+
 
 # Affichage du tableau
 print ("Tableau des Séquences ADN:")
