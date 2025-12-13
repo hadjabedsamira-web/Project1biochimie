@@ -31,7 +31,6 @@ print(df,"\n\n")
 print("**************** Opération ****************")
 
 
-
 #1) Sélectionner la colonne "Longueur"
 longueur = df["Longueur"]
 print(longueur,"\n\n") 
