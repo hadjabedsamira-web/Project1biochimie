@@ -64,5 +64,5 @@ print("Écart type de longueur:", écarttype_long)
 print(df,"\n\n") 
 
 #7) Sauvegarde et chargement des données avec pandas 
-# Sauvegarder le DataFrame dans un fichier csv 
+# Sauvegarder le DataFrame dans un fichier csv
 df.to_csv("tableau_séquence.csv", index=False)
